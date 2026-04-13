@@ -1,2 +1,6 @@
-python-telegram-bot==21.3
+python-telegram-bot==20.3
 aiohttp==3.9.3
+Pillow==10.3.0
+requests==2.31.0
+rembg==2.0.50
+onnxruntime==1.17.1
